@@ -12,8 +12,8 @@
 
 We are actively developing Knowlihub and would love your contributions and feedback. Join us in making learning accessible and enjoyable for everyone!
 
-🌐 [Visit our Landing Page](#)  
+🌐 [Visit our Landing Page](https://mayura-andrew.github.io/knowlihub)  
 💬 [Join our Community](#)  
-📧 [Contact Us](#)
+📧 [Contact Us](mayuraalahakoon@gmail.com)
 
 Together, let's build a brighter future for education! 🚀
